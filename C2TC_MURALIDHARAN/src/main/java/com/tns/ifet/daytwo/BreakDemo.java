@@ -1,4 +1,4 @@
-package com.ifet.daytwo;
+package com.tns.ifet.daytwo;
 
 public class BreakDemo {
 
